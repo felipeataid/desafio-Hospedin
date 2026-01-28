@@ -309,10 +309,11 @@ A decisão de utilizar o modelo **Gemini 2.5 Flash** em detrimento de outros com
 ---
 
 ## Vídeo do Projeto:
-
+https://drive.google.com/drive/folders/12rXkwExCzAG3l6NQUUHvP0UXPzIYZHF3?usp=drive_link
 
 ## 👨‍💻 Autor
 Desenvolvido por **Felipe Pedreira**.
 
 * **Perfil:** Desenvolvedor Python especializado em Automação e Inteligência Artificial.
+
 * **Tecnologias:** FastAPI, Agno, Qdrant, Gemini, Docker e n8n.
